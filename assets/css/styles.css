@@ -416,6 +416,7 @@ the website, in dark theme
 
 .about__title{
   margin-bottom: var(--mb-2);
+  margin-top: var(--mb-2);
 }
 
 .about__description{
