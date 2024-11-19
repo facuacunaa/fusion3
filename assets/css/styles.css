@@ -412,6 +412,7 @@ the website, in dark theme
 .about__img{
   width: 380px;
   justify-self: center;
+  margin-bottom: var(--mb-2);
 }
 
 .about__title{
